@@ -16,11 +16,11 @@ QQ group: 955765957
 
 ## Docs
 
-[Github Wiki](https://github.com/thirteenc13/bdlauncher/wiki)
+[Github Wiki](https://github.com/ShrBox/bdlauncher-life/wiki)
 
 ## Prebuilt binary
 
-[Github Action](https://github.com/thirteenc13/bdlauncher/actions)
+[Github Action](https://github.com/ShrBox/bdlauncher-life/actions)
 
 ## License
 
