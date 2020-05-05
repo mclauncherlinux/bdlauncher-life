@@ -32,7 +32,7 @@ enum class OpQuery { query };
 struct MoneyOP : CustomCommandContext
 {
 public:
-    static constexpr auto cmd_name = "moneyop";
+    static constexpr auto cmd_name = "money_op";
     static constexpr auto description = "Money admin command";
     static constexpr auto permission = CommandPermissionLevel::OP;
 
