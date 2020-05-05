@@ -1,4 +1,6 @@
 # bdlauncher-life
+## Please use BedrockX
+[BedrockX](https://github.com/Sysca11/BedrockX) is a brand new Bedock Dedicated Server plugin loader
 
 ![C/C++ CI](https://github.com/ShrBox/bdlauncher-life/workflows/C/C++%20CI/badge.svg?branch=master)
 
