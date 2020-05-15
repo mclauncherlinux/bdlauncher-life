@@ -2,6 +2,7 @@
 #include "hook.h"
 #include <cassert>
 #include <global.h>
+#include <cstdio>
 #include <type_traits>
 
 template <size_t size> struct StrictMem {
